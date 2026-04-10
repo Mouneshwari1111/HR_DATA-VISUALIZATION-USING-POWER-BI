@@ -1,0 +1,122 @@
+# 📊 HR Data Visualization using Power BI
+
+## 📌 Project Overview
+
+The **HR Data Visualization using Power BI** project focuses on analyzing and visualizing human resource data to gain meaningful insights. This project helps HR professionals and management make data-driven decisions by transforming raw employee data into interactive dashboards and reports.
+
+Power BI is used as the primary tool to create dynamic visualizations such as charts, graphs, and KPIs that represent employee trends, performance, and organizational metrics.
+
+## 🎯 Objectives
+
+* To analyze employee data efficiently
+* To visualize HR metrics using interactive dashboards
+* To identify patterns in employee attrition and performance
+* To improve decision-making in HR departments
+* To automate HR reporting processes
+
+## 🛠️ Tools and Technologies
+
+* **Power BI Desktop**
+* **Microsoft Excel / CSV (Dataset)**
+* **Power Query Editor**
+* **DAX (Data Analysis Expressions)**
+
+## 📂 Dataset Description
+
+The dataset contains employee-related information such as:
+
+* Employee ID
+* Name
+* Age
+* Gender
+* Department
+* Job Role
+* Salary
+* Date of Joining
+* Attrition (Yes/No)
+* Performance Rating
+* Attendance Records
+
+## 📊 Dashboard Features
+
+The Power BI dashboard includes:
+
+### 🔹 Employee Overview
+
+* Total number of employees
+* Gender distribution
+* Department-wise employee count
+
+### 🔹 Attrition Analysis
+
+* Attrition rate (%)
+* Attrition by department
+* Attrition by age group and gender
+
+### 🔹 Performance Analysis
+
+* Employee performance ratings
+* Department-wise performance comparison
+
+### 🔹 Salary Insights
+
+* Average salary by department
+* Salary distribution
+
+### 🔹 Attendance Tracking
+
+* Leave trends
+* Absenteeism patterns
+
+## ⚙️ Project Workflow
+
+1. **Data Collection**
+   Gather HR data from Excel or database
+
+2. **Data Cleaning**
+   Use Power Query to remove duplicates and handle missing values
+
+3. **Data Transformation**
+   Convert raw data into structured format
+
+4. **Data Modeling**
+   Create relationships between tables
+
+5. **Visualization**
+   Design dashboards using charts, slicers, and KPIs
+
+6. **Insights Generation**
+   Analyze trends and patterns
+
+---
+
+## 📈 Key Insights
+
+* Identified departments with high attrition rates
+* Found correlation between salary and employee retention
+* Observed performance trends across departments
+* Highlighted attendance irregularities
+
+## 🚀 How to Use
+
+1. Download the `.pbix` file
+2. Open it in **Power BI Desktop**
+3. Refresh the dataset if required
+4. Explore dashboards using filters and slicers
+
+
+## 📌 Advantages
+
+* Easy to understand visual reports
+* Real-time data insights
+* Improved HR decision-making
+* Automated reporting process
+
+
+## 🔮 Future Enhancements
+
+* Integration with live HR databases
+* Predictive analysis using machine learning
+* Employee sentiment analysis
+* Mobile dashboard optimization
+
